@@ -5,4 +5,9 @@ public class UserRegistration {
     public void addRegistration(){
         System.out.println("This method is used to add user registration");
     }
+
+    public void updateUser(){
+        System.out.println("This method for update user information");
+
+    }
 }
