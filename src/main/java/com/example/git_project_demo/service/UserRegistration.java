@@ -2,4 +2,7 @@ package com.example.git_project_demo.service;
 
 public class UserRegistration {
     //this is user service class
+    public void addRegistration(){
+        System.out.println("This method is used to add user registration");
+    }
 }
